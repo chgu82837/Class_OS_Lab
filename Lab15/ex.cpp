@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <sys/select.h>
-#include <stdio.h>
 #include <fcntl.h> // for open(), close(), read()
 #include <string.h> // for memset()
 #include <sys/select.h> // for FD_*, select()
